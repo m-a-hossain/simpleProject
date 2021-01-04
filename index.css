@@ -1,0 +1,37 @@
+body{
+    
+      margin: 0;
+   
+}
+h1{font-size: 50px;}
+#copyright{text-align: center;}
+section{
+    background-image: url('top-banner.png');
+    background-repeat: no-repeat;
+    height: 500px;
+    
+}
+.upper{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.lower{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;  
+  
+}
+.upper img{width:100%;}
+.lower img{width: 70%;}
+.btn{
+    padding:10px;
+    background-color: rgb(44, 22, 165);
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
